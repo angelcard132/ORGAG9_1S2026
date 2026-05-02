@@ -1,0 +1,68 @@
+conf_ini
+
+
+// MODO FIESTA
+
+modo_fiesta
+Mensaje en LCD: "Modo: FIESTA."
+sala:ON
+comedor:ON
+cocina:ON
+bano:ON
+habitacion:ON
+ventilador:ON
+LED’S: Alternandose
+
+
+// MODO RELAJADO
+
+modo_relajado
+Mensaje en LCD: "Modo: RELAJADO."
+sala:OFF
+comedor:OFF
+cocina:OFF
+bano:OFF
+habitacion:OFF
+ventilador:OFF
+LED’S: OFF
+
+
+// MODO NOCHE
+
+modo_noche
+Mensaje en LCD: "Modo: NOCHE."
+sala:OFF
+comedor:OFF
+cocina:OFF
+bano:OFF
+habitacion:OFF
+ventilador:OFF
+LED’S: OFF
+
+
+// ENCENDER TODO
+
+encender_todo
+Mensaje en LCD: "LEDs: ON."
+sala:ON
+comedor:ON
+cocina:ON
+bano:ON
+habitacion:ON
+ventilador:ON
+LED’S: ON
+
+
+// APAGAR TODO
+
+apagar_todo
+Mensaje en LCD: "LEDs: OFF."
+sala:OFF
+comedor:OFF
+cocina:OFF
+bano:OFF
+habitacion:OFF
+ventilador:OFF
+LED’S: OFF
+
+conf:fin
